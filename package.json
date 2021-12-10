@@ -2,7 +2,7 @@
   "name": "electron-react-ts",
   "productName": "electron-react-ts",
   "version": "0.0.1",
-  "description": "Sample Electron + React + TS",
+  "description": "Electron + React + TS template",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
