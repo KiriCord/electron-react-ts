@@ -1,8 +1,8 @@
-## Electron + React + TypeScript template
+#Electron + React + TypeScript template
 
 Template for a project using Electron, React and TypeScript
 
-##Installation
+#Installation
 
 ```bash
 git clone https://github.com/KiriCord/electron-react-ts.git
@@ -14,7 +14,7 @@ Use npm or yarn
 npm install
 ```
 
-##Usage
+#Usage
 
 ```bash
 npm start
